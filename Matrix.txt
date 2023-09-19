@@ -1,0 +1,12 @@
+5
+13
+A,C,D,G
+B,H,K
+E,J,L
+F,I
+M
+3
+A not in 4
+L not in 2
+B not in 3
+
