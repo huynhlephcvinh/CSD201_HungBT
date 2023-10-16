@@ -2,7 +2,7 @@
 code: 10 điểm,
  doc: 8 điểm
 
-#### BOOKSHELF : graph color, graph matrix,Greedy.
+#### Graph color, Graph matrix, Greedy.
 
 ### Phương án đặt sách lên kệ sách 
 ###  Tại một cửa hàng sách, mới nhập về 12 quyển sách thuộc các loại sau: 
